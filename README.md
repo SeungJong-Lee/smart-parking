@@ -1,1 +1,1 @@
-[[인천대학교] 임베디드시스템공학과 판넬_수정 (1).pdf](https://github.com/SeungJong-Lee/smart-parking/files/11714954/_.1.pdf)
+![화면 캡처 2023-06-12 001137](https://github.com/SeungJong-Lee/smart-parking/assets/93259204/917574fb-e5b3-449d-baa2-106505c5ed23)
